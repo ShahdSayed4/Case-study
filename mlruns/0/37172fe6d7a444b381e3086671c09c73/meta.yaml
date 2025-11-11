@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/shahd/Depi%20Data%20Science/Case%20Study/chat/mlruns/0/37172fe6d7a444b381e3086671c09c73/artifacts
+end_time: 1762792139058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37172fe6d7a444b381e3086671c09c73
+run_name: best_model_save
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762792117641
+status: 3
+tags: []
+user_id: shahd

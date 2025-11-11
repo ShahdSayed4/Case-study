@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/shahd/Depi%20Data%20Science/Case%20Study/chat/mlruns/0/f9561b4fe83f4aa5beffcc52923e382c/artifacts
+end_time: 1762823199525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9561b4fe83f4aa5beffcc52923e382c
+run_name: streamlit_prediction
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762823199399
+status: 3
+tags: []
+user_id: shahd

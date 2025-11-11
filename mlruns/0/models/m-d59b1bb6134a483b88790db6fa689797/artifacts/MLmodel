@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/shahd/Depi%20Data%20Science/Case%20Study/chat/mlruns/0/models/m-d59b1bb6134a483b88790db6fa689797/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.5.1
+model_id: m-d59b1bb6134a483b88790db6fa689797
+model_size_bytes: 8392837
+model_uuid: m-d59b1bb6134a483b88790db6fa689797
+prompts: null
+run_id: 37172fe6d7a444b381e3086671c09c73
+utc_time_created: '2025-11-10 16:28:37.874487'

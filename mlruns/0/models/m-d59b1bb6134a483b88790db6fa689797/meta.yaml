@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/shahd/Depi%20Data%20Science/Case%20Study/chat/mlruns/0/models/m-d59b1bb6134a483b88790db6fa689797/artifacts
+creation_timestamp: 1762792117800
+experiment_id: '0'
+last_updated_timestamp: 1762792139018
+model_id: m-d59b1bb6134a483b88790db6fa689797
+model_type: null
+name: model
+source_run_id: 37172fe6d7a444b381e3086671c09c73
+status: 2
+status_message: null
